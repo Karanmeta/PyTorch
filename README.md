@@ -175,7 +175,6 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 - [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
 ---
 
